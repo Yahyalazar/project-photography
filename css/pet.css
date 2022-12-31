@@ -1,0 +1,11 @@
+body{
+margin: 0;
+padding:0 ;
+box-sizing: content-box;
+}
+nav ul li a{
+text-decoration: none;
+color: #000;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;       
+    }
+nav ul li{ list-style: none;}

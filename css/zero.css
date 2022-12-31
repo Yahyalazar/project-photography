@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(253, 217, 173);
+    margin: 0;
+    padding: 0;
+    box-sizing:content-box;
+    margin-right: 10px;
+}
+#Z{
+    margin-left: 30px;
+}
+
+header h1{
+    margin: -30px 0px 0px 130px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+nav ul li a {
+    text-decoration: none;
+    float: left;
+    padding-right: 10px;
+    
+}
+nav ul li{
+    list-style: none;
+    float: left;
+    position: relative;
+     left: 700px;
+     bottom: 50px;
+}
+div img{
+    margin-left: 30px; 
+}
+
+.parent{
+  position: relative;
+  background: url(../zozor/sanfrancisco.jpg);
+}
+.child{
+    height: 10%;
+    width: 100%;
+    opacity:0.4S ;
+}

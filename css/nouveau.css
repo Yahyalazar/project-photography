@@ -1,0 +1,23 @@
+header h1{
+    margin-left:200px; 
+
+}
+nav{
+    text-decoration: none;
+    list-style: none;
+    background-color: black;
+    display: inline;
+    position: relative;
+    
+    color: aliceblue;
+    width: 600px;
+}
+article{
+    background-image:url(../Burgre.jpg); 
+    background-size: 150px;
+     color: white;
+     
+}
+.A{
+    
+}
