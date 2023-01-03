@@ -1590,10 +1590,10 @@ font-weight: bold;
 @keyframes change-background {
   0%,
   100% {
-    background-image: url("photography/discount-background1.jpg");
+    background-image: url("../photography/discount-background1.jpg");
   }
   50% {
-    background-image: url("photography/discount-background2.jpg");
+    background-image: url("../photography/discount-background2.jpg");
   }
 }
 /* End Animation */
