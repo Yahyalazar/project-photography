@@ -103,7 +103,7 @@ transform: translateY(-50%);
   background-size: 30px 30px;
 }
 .dots {
-  background-image: url("photography/dots.png");
+  background-image: url("../photography/dots.png");
   height: 186px;
   width: 204px;
   background-repeat: no-repeat;
@@ -1238,7 +1238,7 @@ font-weight: bold;
   padding-top: var(--main-padding-top);
   padding-bottom: var(--main-padding-bottom);
   position: relative;
-  background-image: url("photography/stats.jpg");
+  background-image: url("../photography/stats.jpg");
   background-size: cover;
   min-height: 300px;
 }
@@ -1316,7 +1316,7 @@ font-weight: bold;
   flex-wrap: wrap;
 }
 .discount .image {
-  background-image: url("photography/discount-background1.jpg");
+  background-image: url("../photography/discount-background1.jpg");
   background-size: cover;
   color: white;
   flex-basis: 50%;
@@ -1590,10 +1590,10 @@ font-weight: bold;
 @keyframes change-background {
   0%,
   100% {
-    background-image: url("photography/discount-background1.jpg");
+    background-image: url("../photography/discount-background1.jpg");
   }
   50% {
-    background-image: url("photography/discount-background2.jpg");
+    background-image: url("../photography/discount-background2.jpg");
   }
 }
 /* End Animation */
